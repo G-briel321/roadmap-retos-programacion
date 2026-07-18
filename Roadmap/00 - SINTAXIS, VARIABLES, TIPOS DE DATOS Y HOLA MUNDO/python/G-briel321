@@ -1,1 +1,20 @@
+# https://www.python.org/ URL del oficial del lenguaje de programación que elegí.
 
+# Esto es un comentario
+
+'''
+ESTO ES OTRO
+COMENTARIO
+PERO EN 
+VARIAS LINEAS
+'''
+
+variable = "mi variable jeje" #esto es una variable
+PI = 3.1416  #esto vendria ser UNA constante 
+
+texto = "esto es texto"
+int = 2
+float = 6.8
+boolean = True
+
+print("Hola, Python xd")
